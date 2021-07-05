@@ -19,7 +19,7 @@ What things you need to install the software.
 Clone the git repository on your computer
 
 ```
-$ git clone https://github.com/neoighodaro/pusher-python-realtime-dashboard
+$ git clone https://github.com/dhilbrin/python-dashboard
 ```
 
 You can also download the entire repository as a zip file and unpack in on your computer if you do not have git
